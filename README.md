@@ -21,7 +21,7 @@ La segmentación de clientes es una técnica útil para las empresas para entend
 ¿Cuáles son los productos más demandados? 
 ¿Podríamos identificar grupos (clúster) de clientes de tal manera que tengan características similares?
 
-<p align="left"> <img src="https://drive.google.com/file/d/1dyhowOfoqhi5k9_4jl98HBW8qYlN_CA6/view?usp=share_link" alt="cakenny" /> </p>
+
 
 ### Conclusión
 
